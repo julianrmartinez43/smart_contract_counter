@@ -37,3 +37,9 @@ def count_from_to(starting_block=int, last_block=int):
         last_block_checked = block
         print(last_block_checked)
 
+
+    
+
+
+# future tasks, add asyn
+# figure out how to use range for the for loop above
